@@ -140,7 +140,7 @@ dependencies {
 
     implementation(libs.androidx.material.icons.extended)
     implementation("com.google.ai.client.generativeai:generativeai:0.9.0")
-    val room_version = "2.5.0"
+    val room_version = "2.8.4"
 
     implementation("androidx.room:room-runtime:$room_version")
     ksp("androidx.room:room-compiler:$room_version")
