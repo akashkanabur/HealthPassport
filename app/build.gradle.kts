@@ -127,7 +127,7 @@ dependencies {
 
     implementation(libs.androidx.lifecycle.viewmodel.compose)
     implementation(libs.okhttp)
-    implementation("com.squareup.okhttp3:logging-interceptor:4.11.0")
+    implementation("com.squareup.okhttp3:logging-interceptor:5.3.2")
     //alias(libs.plugins.compose.compiler)
 
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.0")
